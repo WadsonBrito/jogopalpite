@@ -42,9 +42,9 @@ int main(){
             break;
         default:
             printf("Opção Inválida\n");
-        }
             break;
-        
+        }
+        break;
     case 3:
         printf("Saindo do Jogo, Obrigado!\n"); 
         break;          
